@@ -1,0 +1,99 @@
+
+    a:link {
+        color: black;
+        background-color: transparent;
+        text-decoration: none; }
+
+
+        
+       #wdyc {
+        
+            border-bottom: 1px solid white;
+            padding: 8px;
+        }
+        
+        #home {
+            margin-bottom: 10px;
+        }
+        
+        .modal-content {
+            margin-top: 100px;
+        }
+        
+        .img_modal {
+            display: inline-block;
+        }
+        
+        .p_modal {
+            margin-top: 10px;
+        }
+        
+        .modal-body {
+            text-align: center
+        }
+        
+        #Image{
+         width: 600px;   
+         height: 500px;
+        }
+        
+         .center {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+              }   
+        
+
+        #Div_for_p{
+            padding-left: 80px;    
+        }
+
+        .Samveg{
+         width: 180px;   
+         height: 200px;
+        }
+
+        .samve{
+            width: 180px;   
+            height: 200px;   
+        }
+
+        .samv{
+            width: 180px;   
+            height: 200px;    
+        }
+
+        .engclass {
+            background: #63ffa4;
+            padding: 10px;
+            margin-top: 15px;
+            border: 3px solid white;
+            box-shadow: 5px 5px 8px rgb(87, 4, 55)
+          }
+         
+          .bg {
+            background-image: url("5176503.jpg");
+          }
+ 
+          .mathclass {
+            background: #ffe604;
+            padding: 10px;
+            margin-top: 15px;
+            border: 3px solid white;
+            box-shadow: 5px 5px 7px rgb(236, 118, 7)
+          }
+      
+          .evsclass {
+            background:#f3dc0d;
+            padding: 10px;
+            margin-top: 15px;
+            border: 3px solid white;
+            box-shadow: 5px 5px 7px rgb(255, 106, 7)
+          }
+                                                                                   
+          .CLASSISCLASS{
+           background-image: url("28062.jpg");   
+          }
+          
+     
